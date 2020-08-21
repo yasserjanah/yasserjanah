@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yasser-janah.com" width="26px" src="https://www.yasser-janah.com/static/favicon.ico" />][website]
+[<img align="left" alt="yasser-janah.com" width="26px" src="https://camo.githubusercontent.com/976879b554f38049477da2deda22026a7065cb63/68747470733a2f2f7777772e7961737365722d6a616e61682e636f6d2f7374617469632f66617669636f6e2e69636f" />][website]
 [<img align="left" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="twitter.com/yasser_janah" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
 [<img align="left" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
