@@ -32,11 +32,12 @@
 <img align="left" alt="Golang" width="26px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+<img align="left" alt="Git" width="48px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.brandeps.com/logo-download/T/Terminal-logo-vector-01.svg" />
 
-<br>
+<br/>
+<br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
