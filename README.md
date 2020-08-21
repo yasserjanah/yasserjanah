@@ -1,7 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yasser Janah - AKA [th3x0ne][website] 
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yasser Janah !
 
-
-### I'm a System and Network Administrator, Web Developer, and Ethical Hacker!
+### I'm a system and Network Administrator, Web Developer, and Ethical Hacker!
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
@@ -11,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yasser-janah.com" width="26px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
+[<img align="left" alt="yasser-janah.com" width="26px" src="https://www.yasser-janah.com/static/favicon.ico" />][website]
 [<img align="left" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="twitter.com/yasser_janah" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
 [<img align="left" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -31,12 +30,12 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
 <img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
 <img align="left" alt="Golang" width="26px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.brandeps.com/logo-download/T/Terminal-logo-vector-01.svg" />
 
----
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
