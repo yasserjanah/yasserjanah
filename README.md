@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yasser Janah !
 
-### I'm a system and Network Administrator, Web Developer, and Ethical Hacker!
+### I'm currently a Big Data Student, Web Developer, and Ethical Hacker!
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
@@ -48,6 +48,6 @@
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
-[twitter]: https://twitter.com/yasser_janah
+[twitter]: https://twitter.com/th3x0ne
 [instagram]: https://instagram.com/yasserjanah
 [linkedin]: https://linkedin.com/in/yasserjanah
