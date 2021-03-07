@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
-- 💬 Ask me about anything related to Javascript/Golang/Python or VueJS/NodeJS/Express/Django
+- 💬 Ask me about anything related to Javascript/Golang/Python or VueJS/NodeJS/Express/Django Linux and Hacking
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
 
