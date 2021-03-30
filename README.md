@@ -53,6 +53,7 @@
 [linkedin]: https://linkedin.com/in/yasserjanah
 
 <br/>
+<br/>
 <details>
   <summary>:zap: Github Top Languages</summary>
 
