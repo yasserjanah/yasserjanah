@@ -52,9 +52,10 @@
 [instagram]: https://instagram.com/yasserjanah
 [linkedin]: https://linkedin.com/in/yasserjanah
 
+<br>
 <details>
   <summary>:zap: Github Top Languages</summary>
 
-  <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
+  <img align="right" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
 
 </details>
