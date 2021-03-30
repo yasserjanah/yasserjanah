@@ -51,3 +51,5 @@
 [twitter]: https://twitter.com/th3x0ne
 [instagram]: https://instagram.com/yasserjanah
 [linkedin]: https://linkedin.com/in/yasserjanah
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah)](https://github.com/anuraghazra/github-readme-stats)
