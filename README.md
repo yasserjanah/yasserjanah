@@ -40,8 +40,10 @@
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <br/>
 
-<p><img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=tokyonight&hide_border=true" />
-<img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true&theme=tokyonight" /></p>
+<p>
+  <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
+  <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
+</p>
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
