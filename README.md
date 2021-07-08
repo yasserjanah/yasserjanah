@@ -7,9 +7,8 @@
 - 💬 Ask me about anything related to C/C++/Bash/Javascript/Golang/Python/PHP or VueJS/NodeJS/Express/Django or Linux/Hacking
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
-<br/>
-### Connect with me:
 
+### Connect with me:
 [<img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
 [<img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 [<img align="center" alt="twitter.com/yasser_janah" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
@@ -19,13 +18,12 @@
 <br/>
 
 ### Languages and Tools:
-
 <img align="left" alt="C Programming" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" alt="VueJS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express.js" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
@@ -39,18 +37,16 @@
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <br/>
 
-<p>
   <details>
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
   </details>
- </p>
- <p>
+
   <details>
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
   </details>
-</p>
+
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
