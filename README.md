@@ -28,7 +28,7 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express.js" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+<img align="left" alt="Django" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
 <img align="left" alt="Golang" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
@@ -40,6 +40,7 @@
 
 <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
 <br/>
+<br>
 <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
 
 
