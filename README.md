@@ -41,12 +41,15 @@
 [instagram]: https://instagram.com/yasserjanah
 [linkedin]: https://linkedin.com/in/yasserjanah
 
+<br/>
+<br/>
+<br/>
+
 ### Connect with me:
-<p>
-[<img align="left" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
-[<img align="left" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="twitter.com/yasser_janah" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
-[<img align="left" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
-</p>
+[<img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
+[<img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+[<img align="center" alt="twitter.com/yasser_janah" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
+[<img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
+
 <br />
