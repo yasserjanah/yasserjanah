@@ -7,8 +7,6 @@
 - 💬 Ask me about anything related to C/C++/Bash/Javascript/Golang/Python/PHP or VueJS/NodeJS/Express/Django or Linux/Hacking
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
-
-<br/>
 <br/>
 
 ### Connect with me:
@@ -18,6 +16,7 @@
 [<img align="center" alt="twitter.com/yasser_janah" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
 [<img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
+<br/>
 <br/>
 
 ### Languages and Tools:
@@ -39,11 +38,10 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-
-
 <br/>
 
-<p><img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=tokyonight&hide_border=true" /><img align="right" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true&theme=tokyonight" /></p>
+<p><img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true&theme=tokyonight" /></p>
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
