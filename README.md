@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I :heart: CTFs
 
 ### Languages and Tools:
-
+<p>
 <img align="left" alt="C Programming" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
@@ -27,12 +27,13 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</p>
 
 <br/>
 <br/>
 <br/>
 
-<p><img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=tokyonight" /><img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" /></p>
+<p><img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=tokyonight&hide_border=true" /><img align="right" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true&theme=tokyonight" /></p>
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
