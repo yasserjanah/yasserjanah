@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I :heart: CTFs
 
 ### Connect with me:
-[<img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
-[<img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
-[<img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
+[<img align="left" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
+[<img align="left" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
 <br/>
 <br/>
 
@@ -36,7 +36,7 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-                                                                                                                                            </p>
+</p>
 <br/>
 <br/>
 <br/>
