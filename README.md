@@ -37,11 +37,13 @@
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
 <br/>
+<br/>
+<br/>
 
-<img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
+<img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
 <br/>
 <br>
-<img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
+<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
 
 
 [website]: https://www.yasser-janah.com
@@ -49,7 +51,3 @@
 [twitter]: https://twitter.com/th3x0ne
 [instagram]: https://instagram.com/yasserjanah
 [linkedin]: https://linkedin.com/in/yasserjanah
-
-<br/>
-<br/>
-<br/>
