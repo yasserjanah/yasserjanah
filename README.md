@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yassir Janah !
 
-### I'm currently a Big Data Student, Web Developer, and Ethical Hacker!
+### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
@@ -10,8 +10,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C Programming" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C Programming" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -31,7 +31,6 @@
 <br/>
 <br/>
 <br/>
-  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=tokyonight" />
 
@@ -39,7 +38,6 @@
 <br/>
 <br/>
 <br/>
-  <summary>:zap: Github Top Languages</summary>
 
   <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
 
