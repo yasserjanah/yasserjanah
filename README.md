@@ -8,7 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
 <br/>
-
 ### Connect with me:
 
 [<img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
@@ -41,8 +40,15 @@
 <br/>
 
 <p>
-  <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
-  <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
+  <details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
+  </details>
+  
+  <details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
+  </details>
 </p>
 
 [website]: https://www.yasser-janah.com
