@@ -7,7 +7,7 @@
 </a>
 
 <a href="#yasserjanah">
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" align="left" />
+<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true&theme=react" align="left" />
 </a>
 
 - 🔭 I’m currently working on something cool :wink:
