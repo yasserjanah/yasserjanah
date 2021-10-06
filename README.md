@@ -28,19 +28,18 @@
       </a>
       <br>C++
     </td>
-        </td>
+        <td align="center" width="96">
+      <a href="#yasserjanah-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>    
         <td align="center" width="96">
       <a href="#yasserjanah-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
-        </td>
-        <td align="center" width="96">
-      <a href="#yasserjanah-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -58,12 +57,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
