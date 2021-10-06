@@ -2,19 +2,19 @@
 
 ### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
 
-<a href="#yasserjanah">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
-</a>
-
-<a href="#yasserjanah">
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true&theme=react" align="left" />
-</a>
-
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
 - 💬 Ask me about anything, I am happy to **help**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
+- 
+<a href="#yasserjanah">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+</a>
+
+<a href="#yasserjanah">
+<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=false&theme=react" align="left" />
+</a>
 
 
 ### Languages and Tools:
