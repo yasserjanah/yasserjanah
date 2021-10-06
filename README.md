@@ -130,8 +130,6 @@
 </table>
 
 <br/>
-<br/>
-<br/>
 
 <a href="#yasserjanah">
   <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
@@ -141,20 +139,28 @@
 <img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=false&theme=react" align="left" />
 </a>
 
-<br>
+<br/>
+<br/>
 
 [![Yasser JANAH's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasserjanah&theme=react-dark)](https://github.com/yasserjanah)
 
 <p align="center">
-### Connect with me:
-[<img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
-[<img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
-[<img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
+  <a href="https://www.yasser-janah.com">
+    <img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />
+  </a>
+    <a href="https://facebook.com/yasser.janah0">
+    <img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
+    <a href="https://twitter.com/th3x0ne">
+    <img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
+  </a>
+    <a href="https://instagram.com/yasserjanah">
+    <img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
+    <a href="https://linkedin.com/in/yasserjanah">
+    <img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />
+  </a>
 </p>
-<br/>
-<br/>
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
