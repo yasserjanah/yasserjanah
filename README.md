@@ -42,11 +42,7 @@
 <br/>
 <br/>
 
-<img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&hide_border=true" />
-<br>
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=true" />
-
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
+[![Yasser JANAH's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasserjanah&theme=react-dark)](https://github.com/yasserjanah)
 
 ### Connect with me:
 [<img align="left" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
