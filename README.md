@@ -9,15 +9,6 @@
 - ⚡ Fun fact: I :heart: CTFs
 
 
-<a href="#yasserjanah">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
-</a>
-
-<a href="#yasserjanah">
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=false&theme=react" align="left" />
-</a>
-
-
 ### Languages and Tools:
 
 > Tools, languages, and other things that I like to work with.
@@ -218,14 +209,22 @@
 <br/>
 <br/>
 
+<a href="#yasserjanah">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+</a>
+
+<a href="#yasserjanah">
+<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=false&theme=react" align="left" />
+</a>
+
 [![Yasser JANAH's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasserjanah&theme=react-dark)](https://github.com/yasserjanah)
 
 ### Connect with me:
-[<img align="left" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
-[<img align="left" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
-[<img align="left" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
+[<img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />][website]
+[<img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+[<img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
+[<img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />][instagram]
 <br/>
 <br/>
 
