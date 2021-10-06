@@ -71,7 +71,6 @@
       <br>MongoDB
     </td>
   </tr>
-  
   <tr>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
@@ -97,7 +96,6 @@
       </a>
       <br>HTML5
     </td>
-
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
@@ -187,6 +185,7 @@
   </tr>
     
 </table>
+
 <p align="center">
 <img align="left" alt="C Programming" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
