@@ -2,9 +2,13 @@
 
 ### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
 
+<a href="#suhailkakar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+</a>
+
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
-- 💬 Ask me about anything related to C/C++/Bash/Javascript/Golang/Python/PHP or VueJS/NodeJS/Express/Django or Linux/Hacking
+- 💬 Ask me about anything, I am happy to help
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
 
