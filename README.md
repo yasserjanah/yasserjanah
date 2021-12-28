@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yassir Janah !
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yass{e,i}r Janah !
 
 ### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
 
