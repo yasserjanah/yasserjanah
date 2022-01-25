@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
 - 💬 Ask me about anything, I am happy to **help**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: CTFs
 
 
