@@ -1,6 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yassir Janah !
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=yasserjanah&left_color=grey&right_color=red" />
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yasserjanah&left_color=grey&right_color=red" />
+  <img src="https://img.shields.io/github/followers/yasserjanah?style=social" />
+</p>
 
 ### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
 
