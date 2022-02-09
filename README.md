@@ -151,7 +151,9 @@
   <a href="https://www.yasser-janah.com">
     <img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />
   </a>
-  <a href="https://icons8.com/icon/do7SxyYU4zAN/email"></a>
+  <a href="mailto:contact@yasser-janah.com">
+    <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-email-essentials-icongeek26-linear-colour-icongeek26.png"/>
+  </a>
     <a href="https://facebook.com/yasser.janah0">
     <img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
   </a>
