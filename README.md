@@ -96,6 +96,18 @@
       </a>
       <br>VueJS
     </td>
+    <td align="center"  width="96">
+      <a href="#yasserjanah-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center"  width="96">
+      <a href="#yasserjanah-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
