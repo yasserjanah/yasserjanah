@@ -15,11 +15,8 @@
     <a href="https://twitter.com/th3x0ne">
     <img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
   </a>
-    <a href="https://instagram.com/yasserjanah">
-    <img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-  </a>
     <a href="https://linkedin.com/in/yasserjanah">
-    <img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />
+    <img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
 </p>
 
