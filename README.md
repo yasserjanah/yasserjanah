@@ -129,9 +129,22 @@
     </td>
      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MongoDB
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#yasserjanah-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" width="48" height="48" alt="Postgres DB" />
+      </a>
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="96"> 
+      <a href="#yasserjanah-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
     </td>
      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
