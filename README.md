@@ -88,7 +88,7 @@
       <a href="#yasserjanah-tech">
         <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
       </a>
-      <br>TailWind
+      <br>TailWind CSS
     </td>
     <td align="center"  width="96">
       <a href="#yasserjanah-tech">
@@ -104,9 +104,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#yasserjanah-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="48" height="48" alt="Angular" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
       </a>
-      <br>Angular
+      <br>Svelte
     </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
@@ -120,6 +120,7 @@
       </a>
       <br>Node JS
     </td>
+  </tr>
      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
