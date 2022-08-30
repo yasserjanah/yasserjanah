@@ -126,13 +126,13 @@
       </a>
       <br>Node JS
     </td>
-  </tr>
-    <td align="center" width="96"> 
+      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
       </a>
       <br>Spring Framework
     </td>
+  </tr>
      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
@@ -158,6 +158,12 @@
       </a>
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+      <a href="#yasserjanah-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
     <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
@@ -172,15 +178,9 @@
     </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#yasserjanah-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
+      <br>Kubernetes
     </td>
   </tr>
 </table>
