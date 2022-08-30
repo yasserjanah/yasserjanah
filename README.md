@@ -4,6 +4,25 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=yasserjanah&left_color=grey&right_color=red"/>
   <img src="https://img.shields.io/github/followers/yasserjanah?style=social" />
 </p>
+### Contact me:
+
+<p align="center">
+  <a href="mailto:contact@yasser-janah.com">
+    <img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-email-essentials-icongeek26-linear-colour-icongeek26.png"/>
+  </a>
+    <a href="https://facebook.com/yasser.janah0">
+    <img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
+    <a href="https://twitter.com/th3x0ne">
+    <img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
+  </a>
+    <a href="https://instagram.com/yasserjanah">
+    <img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
+    <a href="https://linkedin.com/in/yasserjanah">
+    <img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />
+  </a>
+</p>
 
 ### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
 
@@ -205,29 +224,6 @@
 
 [![Yasser JANAH's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasserjanah&theme=react-dark)](https://github.com/yasserjanah)
 
-
-### Contact me:
-
-<p align="center">
-  <a href="https://www.yasser-janah.com">
-    <img align="center" alt="yasser-janah.com" width="26px" src="https://i.ibb.co/yN2YTKn/logo.png" />
-  </a>
-  <a href="mailto:contact@yasser-janah.com">
-    <img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-email-essentials-icongeek26-linear-colour-icongeek26.png"/>
-  </a>
-    <a href="https://facebook.com/yasser.janah0">
-    <img align="center" alt="facebook.com/yasser.janah0" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
-  </a>
-    <a href="https://twitter.com/th3x0ne">
-    <img align="center" alt="twitter.com/th3x0ne" width="26px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
-  </a>
-    <a href="https://instagram.com/yasserjanah">
-    <img align="center" alt="linkedin.com/in/yasserjanah" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-  </a>
-    <a href="https://linkedin.com/in/yasserjanah">
-    <img align="center" alt="instagram.com/yasserjanah" width="26px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" />
-  </a>
-</p>
 
 [website]: https://www.yasser-janah.com
 [facebook]: https://facebook.com/yasser.janah0
