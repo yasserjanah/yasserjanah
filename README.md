@@ -51,6 +51,13 @@
       </a>
       <br>JavaScript
     </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#yasserjanah-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
