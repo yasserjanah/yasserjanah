@@ -66,6 +66,14 @@
     </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#yasserjanah-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
