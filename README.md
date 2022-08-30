@@ -70,6 +70,12 @@
       </a>
       <br>Dart
     </td>
+    <td align="center" width="96">
+      <a href="#yasserjanah-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -157,12 +163,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#yasserjanah-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
     </td>
     <td align="center"  width="96">
       <a href="#yasserjanah-tech">
