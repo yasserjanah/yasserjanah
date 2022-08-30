@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="48" height="48" alt="Django" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
