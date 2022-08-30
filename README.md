@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yassir Janah !
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yassir JANAH !
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=yasserjanah&left_color=grey&right_color=red"/>
@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="48" height="48" alt="Django" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
