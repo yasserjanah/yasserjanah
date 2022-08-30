@@ -122,18 +122,24 @@
     </td>
     <td align="center" width="96">
       <a href="#yasserjanah-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#yasserjanah-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
-      <td align="center" width="96"> 
+  </tr>
+    <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
       </a>
       <br>Spring Framework
     </td>
-  </tr>
-     <td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
