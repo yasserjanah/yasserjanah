@@ -127,15 +127,12 @@
       </a>
       <br>Spring Framework
     </td>
-    
      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
-    
-    
      <td align="center" width="96"> 
       <a href="#yasserjanah-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
