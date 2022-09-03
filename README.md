@@ -208,7 +208,7 @@
 <br/>
 
 <a href="#yasserjanah">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Yasser JANAH" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true&" alt="Yasser JANAH" align="right" />
 </a>
 
 <a href="#yasserjanah">
