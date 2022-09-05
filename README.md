@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### I'm currently a Big Data Student, Software Engineer, and Ethical Hacker!
+### I'm currently a Big Data Student, Software Engineer!
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
