@@ -218,7 +218,7 @@
 <br/>
 <br/>
 
-[![Yasser JANAH's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasserjanah&theme=react-dark)](https://github.com/yasserjanah)
+[![Yasser JANAH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasserjanah&theme=react-dark)](https://github.com/yasserjanah)
 
 
 [website]: https://www.yasser-janah.com
