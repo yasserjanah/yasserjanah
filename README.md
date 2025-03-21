@@ -220,6 +220,13 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasserjanah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
