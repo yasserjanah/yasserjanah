@@ -207,13 +207,7 @@
 
 <br/>
 
-<a href="#yasserjanah">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasserjanah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Yasser JANAH" align="right" />
-</a>
 
-<a href="#yasserjanah">
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserjanah&show_icons=true&hide_border=false&theme=react" align="left" />
-</a>
 
 <p align=center>
   <div align=center>
@@ -232,7 +226,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasserjanah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
