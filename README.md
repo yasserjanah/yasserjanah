@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yassir JANAH !
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yasser JANAH !
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yasserjanah&left_color=grey&right_color=red"/>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### I'm currently a Software Engineer!
+### I'm a Software Engineer!
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML 🤣
