@@ -107,7 +107,7 @@
     </td>
         <td align="center" width="96">
       <a href="#yasserjanah-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind CSS
     </td>
