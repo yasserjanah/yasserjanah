@@ -219,12 +219,6 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yasserjanah&bg_color=323232&color=969696&line=ff0303&point=c7c7c7&area=true&hide_border=true" />
-    </a>
-  </div>
-  <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasserjanah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
